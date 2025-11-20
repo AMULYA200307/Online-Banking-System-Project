@@ -1,8 +1,3 @@
-Here is a **clean, professional, GitHub-ready `README.md`** for your project.
-Just copy–paste this into your repository’s `README.md` file.
-
----
-
 # 🏦 Online Banking System – Java, NetBeans & SQLite
 
 A complete **Banking Management System** built using **Core Java (Swing GUI)**, **SQLite database**, and **NetBeans IDE**.
@@ -143,19 +138,6 @@ No setup is required — SQLite works out of the box.
 ## 👨‍💻 Author
 
 **Amulya Gangula**
-Project for learning Java, SQLite, and desktop applications.
-
----
-
-## 📜 License
-
-This project is open-source under the **MIT License**.
-If you want, I can generate a ready MIT `LICENSE` file for you.
-
----
-
-If you want:
-✅ Custom badges (Java, SQLite, NetBeans)
-✅ A better logo
+Project for learning Java, SQLite, and desktop applicationso
 ✅ Auto-generated documentation
 Just tell me!
