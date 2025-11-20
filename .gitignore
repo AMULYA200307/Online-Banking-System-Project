@@ -1,0 +1,22 @@
+# NetBeans build folders
+/build/
+/dist/
+/nbproject/private/
+
+# Compiled class files
+*.class
+
+# Logs
+*.log
+
+# OS-specific
+Thumbs.db
+.DS_Store
+
+# IDE-specific
+.classpath
+.project
+
+# Backup files
+*.bak
+*.old
