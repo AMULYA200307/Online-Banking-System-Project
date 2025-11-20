@@ -122,16 +122,7 @@ and more (based on the project code).
 
 No setup is required — SQLite works out of the box.
 
----
 
-## 🖼️ Screenshots
-
-> *(Add images here if you want)*
-> Example:
-
-```
-![Login Page](./BankingImages/login-screenshot.png)
-```
 
 ---
 
